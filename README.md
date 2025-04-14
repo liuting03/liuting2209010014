@@ -1,4 +1,5 @@
-# 📝 柳婷（liu ting）  
+# 📝 柳婷（liu ting） 
+求职意向：数据分析师
 `信息管理与信息系统专业 | 湖南工商大学 `  
 
 <div align="center">
